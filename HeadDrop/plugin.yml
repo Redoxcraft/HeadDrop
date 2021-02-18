@@ -1,0 +1,6 @@
+name: HeadDrop
+version: 1.16.1
+api-version: 1.16
+main: de.redoxcraft.headdrop.main.Main
+author: RedoxCraft
+website: https://www.youtube.com/redoxcraft
